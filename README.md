@@ -75,6 +75,9 @@ The dashboard includes several key features designed to provide insights and aid
 - **Profitability Tracking**: Real-time tracking of profitability with monthly balances and clear income vs expense comparison.
 - **Driver and Odometer Insights**: Detailed breakdown of payroll and vehicle usage to help optimize costs and resource allocation.
 
+## Link to the dashboard
+https://app.powerbi.com/groups/me/reports/5b0c2312-ef6a-450e-a7b7-84a420e94ddb/ReportSection?experience=power-bi
+
 ## Technologies Used
 
 - **Data Processing , Analysis & Visualisation**: POWER BI
